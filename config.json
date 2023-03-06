@@ -1,0 +1,90 @@
+{
+    "bot": {
+        "token": "BOT TOKEN",
+        "owner": "KENDİ İDN",
+        "prefix": ".",
+        "BotStatus": "YOUTUBE BORAN GÖKDEN",
+        "BotFooter": "YOUTUBE BORAN GÖKDEN",
+        "cooldown": 8
+    },
+    "penals": {
+        "ban": {
+            "staff": "BAN YETKİLİSİ ID",
+            "log": "BAN LOG ID",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "JAİL YETKİLİSİ ID",
+            "roles": "CEZALI ROLÜ ID",
+            "log": "CEZA LOG ID",
+            "limit": 5
+        },
+        "voicemute": {
+            "staff": "SES MUTE YETKİLİSİ ID",
+            "log": "SES MUTE LOG ID",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "MUTE YETKİLİSİ ID",
+            "roles": "SUSTURURULMUS ROLÜ ID",
+            "log": "MUTE LOG ID",
+            "limit": 5
+        },
+        "warn": {
+            "staff": "WARN YETKİLİSİ ID",
+            "log": "WARN LOG ID"
+        },
+        "transport": {
+            "staff": "TAŞIYICI YETKİLİSİ ID"
+        },
+        "points": {
+            "mutepoints": "10",
+            "banpoints": "30",
+            "jailpoints": "20",
+            "warnpoints": "5"
+        }
+    },
+    "logs": {
+        "taglog": "TAG LOG ID",
+        "rollog": "ROL LOG ID",
+        "messagelog": "MESAJ LOG ID",
+        "isimlog": "İSİM LOG ID",
+        "seslog": "SES LOG ID"
+    },
+    "roles": {
+        "vip": "VİP ROL ID",
+        "sponsor": "SPONSOR ROL ID",
+        "müzisyen": "MÜZİSYEN ROL ID",
+        "team": "TAGLI ROL ID"
+    },
+    "channels": {
+        "chat": "CHAT KANALI ID",
+        "voicechannel": "BOT SES KANALI KESİNLİKLE GİR",
+        "welcomechannel": "HOŞ GELDİN KANALI",
+        "rules": "KURALLAR KANALI"
+    },
+    "registration": {
+        "unregistered": "KAYITSIZ ROL ID",
+        "yetkilialim": "YETKİLİ ALIM ROL ID",
+        "staff": "REGİSTER ROL ID",
+        "enaltyetkilirolü": "EN ALT YETKİLİ ROL ID",
+        "GuilDTag": "SUNUCU TAGINIZ",
+        "GuilDTag2": "SUNUCU TAGINIZ 2 YOKSA BOŞ BIRAK",
+        "GuilDTag3": "SUNUCU TAGINIZ 3 YOKSA BOŞ BIRAK",
+        "GuilDTag4": "SUNUCU TAGINIZ 4 YOKSA BOŞ BIRAK",
+        "GuildDiscrim": "SUNUCU ETİKET TAGI YOKSA SIL VARSA BAŞINA # KOY",
+        "minage": 13, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "SUNUCU ID",
+        "GuilDName": "SUNUCU ADI",
+        "GuildOwnerRole": ["SUNUCU KURUCU ROLU ID"]
+    },
+    "emojis": {
+        "tada": "TADA EMOJİ ÇEKİLİŞ EMOJİSİ FARK ETMEZ",
+        "yes": "ONAY EMOJİSİ",
+        "no": "RED EMOJİSİ"
+
+    }
+} 
